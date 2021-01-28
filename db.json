@@ -1,0 +1,43 @@
+{
+    "bg": "https://cdn.hipwallpaper.com/i/27/53/vB4qR3.jpg",
+    "title": "Quiz sobre Corinthians",
+    "description": "Teste os seus conhecimentos sobre o Sport Clube Corinthians Paulista, mostre que faz parte do bando de loucos!",
+    "questions": [
+      {
+        "image": "https://lh3.googleusercontent.com/proxy/8K12xBh4-M2wbJkprSRzcHDAMfw07qZR28HYP_F242SfnMg4J85SxE32XNIR6CTnth9Xwxy3lr1laASvF8CNc8k-610ksPI7uo9MKSRFxrlmZIdcVdHKoDhFMDTVdlvLzFZoqv_tFGcq4Zt781197fwczl0eIwmoBEo975Po3yJr5Tp26mGSdHyL-8kKc2nLcxdN",
+        "title": "Como fazer um seletor por id via CSS?",
+        "description": "Essa é pra aquecer",
+        "answer": 2,
+        "alternatives": [
+          ".elemento",
+          "*elemento",
+          "#elemento",
+          "%elemento"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Como fazer um background gradiente com css?",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "background: linear-gradient(#e66465, #9198e5);",
+           "background: gradient(#e66465, #9198e5);"
+        ]
+      }
+    ],
+    "external": [
+      ""
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#4f0278",
+        "secondary": "#1a1a1a",
+        "mainBg": "#747275",
+        "contrastText": "#FFFFFF",
+        "wrong": "#FF5722",
+        "success": "#4CAF50"
+      },
+      "borderRadius": "4px"
+    }
+  }
