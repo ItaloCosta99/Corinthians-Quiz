@@ -1,6 +1,6 @@
 {
     "bg": "https://cdn.hipwallpaper.com/i/27/53/vB4qR3.jpg",
-    "title": "Quiz sobre Corinthians",
+    "title": "Corinthians",
     "description": "Teste os seus conhecimentos sobre o Sport Clube Corinthians Paulista, mostre que faz parte do bando de loucos!",
     "questions": [
       {
@@ -31,9 +31,9 @@
     ],
     "theme": {
       "colors": {
-        "primary": "#4f0278",
+        "primary": "#ff2121",
         "secondary": "#1a1a1a",
-        "mainBg": "#747275",
+        "mainBg": "#302424",
         "contrastText": "#FFFFFF",
         "wrong": "#FF5722",
         "success": "#4CAF50"
