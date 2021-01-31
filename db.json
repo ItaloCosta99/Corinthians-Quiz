@@ -1,28 +1,30 @@
 {
     "bg": "https://cdn.hipwallpaper.com/i/27/53/vB4qR3.jpg",
     "title": "Corinthians",
-    "description": "Teste os seus conhecimentos sobre o Sport Clube Corinthians Paulista, mostre que faz parte do bando de loucos!",
+    "description": "Teste os seus conhecimentos sobre o Sport Club Corinthians Paulista, mostre que faz parte do bando de loucos!",
     "questions": [
       {
-        "image": "https://lh3.googleusercontent.com/proxy/8K12xBh4-M2wbJkprSRzcHDAMfw07qZR28HYP_F242SfnMg4J85SxE32XNIR6CTnth9Xwxy3lr1laASvF8CNc8k-610ksPI7uo9MKSRFxrlmZIdcVdHKoDhFMDTVdlvLzFZoqv_tFGcq4Zt781197fwczl0eIwmoBEo975Po3yJr5Tp26mGSdHyL-8kKc2nLcxdN",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "image": "https://www.acritica.com/uploads/news/image/7462/show_1.jpg",
+        "title": "No jogo contra o Bahia pelo Campeonato Brasileiro Série A (28/01/2021), o goleiro Cássio, ídolo do time chega a marca de quantos jogos jogados pelo clube?",
+        "description": "Agarra essa pergunta!",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "300 Jogos",
+          "400 Jogos",
+          "500 Jogos",
+          "600 Jogos"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://static.corinthians.com.br/uploads/15686559660c72cb7ee1512f800abe27823a792d03.jpg",
+        "title": "A final do Campeonato Paulista foi enternizada por furdúncio causado pelo Edilson Capetinha. O que ele fez para provocar isso?",
+        "description": "O conflito foi travado entre os rivais paulistanos Corinthians e Palmeiras. Após fazer um gol Edilson decide fazer algo que não agrada nem um pouco os seus adeversários,",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Embaixadinhas",
+           "Dancinha",
+           "Gestos obecenos",
+           "Cuspir noutro jogador"
         ]
       }
     ],
