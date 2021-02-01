@@ -27,7 +27,7 @@ const GlobalStyle = createGlobalStyle`
   }
 `;
 
-const theme = db.theme;
+const { theme } = db;
 
 // eslint-disable-next-line react/prop-types
 export default function App({ Component, pageProps }) {
@@ -35,7 +35,7 @@ export default function App({ Component, pageProps }) {
     <>
       <Head>
         <title>Corinthians Quiz</title>
-        <link rel="icon" href="https://cdn.worldvectorlogo.com/logos/corinthians-1.svg" sizes="any" type="image/svg+xml"/>
+        <link rel="icon" href="https://cdn.worldvectorlogo.com/logos/corinthians-1.svg" sizes="any" type="image/svg+xml" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,700;1,300&display=swap" rel="stylesheet" />
       </Head>
@@ -45,5 +45,5 @@ export default function App({ Component, pageProps }) {
         <Component {...pageProps} />
       </ThemeProvider>
     </>
-  )
+  );
 }

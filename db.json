@@ -18,7 +18,7 @@
       {
         "image": "https://static.corinthians.com.br/uploads/15686559660c72cb7ee1512f800abe27823a792d03.jpg",
         "title": "A final do Campeonato Paulista foi enternizada por furdúncio causado pelo Edilson Capetinha. O que ele fez para provocar isso?",
-        "description": "O conflito foi travado entre os rivais paulistanos Corinthians e Palmeiras. Após fazer um gol Edilson decide fazer algo que não agrada nem um pouco os seus adeversários,",
+        "description": "O conflito foi travado entre os rivais paulistanos Corinthians e Palmeiras. Após fazer um gol Edilson decide fazer algo que não agrada nem um pouco os seus adeversários.",
         "answer": 0,
         "alternatives": [
            "Embaixadinhas",
@@ -26,10 +26,36 @@
            "Gestos obecenos",
            "Cuspir noutro jogador"
         ]
+      },
+      {
+        "image": "https://cdn.meutimao.com.br/fotos-do-corinthians/w941/2018/08/31/corinthians_conquistou_mundial_no_fim_de_2012_s.jpg",
+        "title": "Em que ano o Corinthians foi bicampeão Mundial?",
+        "description": "Não tem Copinha, não tem Mundial 🎻🎵",
+        "answer": 3,
+        "alternatives": [
+           "2009",
+           "2010",
+           "2011",
+           "2012"
+        ]
+      },
+      {
+        "image": "https://tmssl.akamaized.net/images/foto/normal/luan-corinthians-1605189537-51289.jpg?lm=1605189552",
+        "title": "O que o Luan é?",
+        "description": "600 pau por meis!! 🍞",
+        "answer": 3,
+        "alternatives": [
+           "Zé ruela",
+           "Oreiudo",
+           "Pé de rato",
+           "Todas as alternativas acima"
+        ]
       }
     ],
     "external": [
-      ""
+      "https://1sec-quiz.victoroda.vercel.app/",
+      "https://pato-quiz-nextjs.theedouglasam.vercel.app/",
+      "https://aluraquiz-base.alura-challenges.vercel.app/"
     ],
     "theme": {
       "colors": {
