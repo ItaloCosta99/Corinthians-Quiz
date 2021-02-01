@@ -29,7 +29,7 @@
       },
       {
         "image": "https://cdn.meutimao.com.br/fotos-do-corinthians/w941/2018/08/31/corinthians_conquistou_mundial_no_fim_de_2012_s.jpg",
-        "title": "Em que ano o Corinthians foi bicampeão Mundial?",
+        "title": "Em que ano o Corinthians foi Bicampeão Mundial?",
         "description": "Não tem Copinha, não tem Mundial 🎻🎵",
         "answer": 3,
         "alternatives": [
@@ -49,6 +49,54 @@
            "Oreiudo",
            "Pé de rato",
            "Todas as alternativas acima"
+        ]
+      },
+      {
+        "image": "https://defatoonline.com.br/wp-content/uploads/2020/05/screenshot_180.jpg",
+        "title": "Qual foi o elogio que o Mano Menezes deu à Ronaldo depois do gol na Semi do Paulistão de 2009?",
+        "description": "Oh 'Galfvão'...",
+        "answer": 2,
+        "alternatives": [
+           "O Ronaldo é impressionante",
+           "Um jogador único",
+           "Que velocidade hein gordo",
+           "Não é atoa que o chamam de Fenômeno"
+        ]
+      },
+      {
+        "image": "https://www.lance.com.br/files/main_gallery/uploads/2017/02/01/589277424df22.jpeg",
+        "title": "Quem foi o Artilheiro do Corinthians no Brasileirão de 2017?",
+        "description": "Nesse ano o Corinthians foi campeão da competição.",
+        "answer": 1,
+        "alternatives": [
+           "Angel Romero",
+           "Jô",
+           "Danilo",
+           "Pedrinho"
+        ]
+      },
+      {
+        "image": "https://cdn.meutimao.com.br/_upload/historia/curiosidades-do-corinthians/estrangeiros_que_mais_jogaram_no_corinthians.jpg",
+        "title": "Qual desses jogadores estrangeiros tiveram mais jogos pelo clube?",
+        "description": "Essa é mais difícil",
+        "answer": 3,
+        "alternatives": [
+           "Ramirez",
+           "Guerrero",
+           "Tevez",
+           "Angel Romero"
+        ]
+      },
+      {
+        "image": "https://cdn.meutimao.com.br/fotos-do-corinthians/w941/2017/08/30/elenco_campeao_paulista_em_1914_ao_lado_da_taca_t.jpg",
+        "title": "Qual foi o ano do primeiro título do Corinthians?",
+        "description": "Primeiro título do Sport Club Corinthians Paulista. Com 10 vitórias em 10 jogos disputados, o Timão marcou 37 gols e venceu a última partida por 3 a 0, contra o Lusitano, no Parque Antártica. O atacante Neco foi o artilheiro do torneio com 12 gols. O Alvinegro conquistou o Campeonato Paulista com uma rodada de antecedência. No dia 08 de novembro, a equipe derrotou o Campos Elyseos por 4 a 0 e sagrou-se campeã com a seguinte escalação: Aristides, Fúlvio e Casemiro González; Police, Bianco e César Nunes; Américo, Peres, Amílcar, Apparício e Neco.",
+        "answer": 0,
+        "alternatives": [
+           "1914",
+           "1917",
+           "1919",
+           "1920"
         ]
       }
     ],
